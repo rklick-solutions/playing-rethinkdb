@@ -1,4 +1,4 @@
-
+Test
 -----------------------------------------------------------------------
 Building Reactive Play application with RethinkDB
 
